@@ -13,4 +13,5 @@ Attention mechanisms allow the model to "focus" on relevant parts of the input s
 - **Key (K)**: What the input offers.
 - **Value (V)**: The actual content we will extract.
 
-In the next chapter, we will dive into **Self-Attention**, the core component of the Transformer architecture.
+In the next chapter [02_self_attention_mechanics.md](./02_self_attention_mechanics.md) , we will dive into **Self-Attention**, the core component of the Transformer architecture.
+ 
